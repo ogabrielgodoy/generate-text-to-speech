@@ -5,10 +5,9 @@ Este é um projeto simples que permite que os usuários insiram texto e gerem um
 ## Funcionamento
 
 1. Insira o texto desejado na caixa de texto.
-2. Escolha a velocidade desejada para a fala (de 0.1 a 10).
-3. Clique no botão "Gerar Áudio".
-4. O texto será sintetizado em fala com a velocidade selecionada.
-5. Após a conclusão, um link para o arquivo de áudio será disponibilizado para download.
+2. Clique no botão "Gerar Áudio".
+3. O texto será sintetizado em fala.
+4. Após a conclusão, um link para o arquivo de áudio será disponibilizado para download.
 
 Certifique-se de que o navegador em uso suporta a API Web Speech e está configurado para permitir a geração de áudio.
 
